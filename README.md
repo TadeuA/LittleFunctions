@@ -1,0 +1,5 @@
+- [x] Reunir funções JavaScript
+- [ ] Descrever seu fluxo
+- [ ] Criar versão em TypeScript
+- [ ] Implementar Demo
+- [ ] Escrever README
